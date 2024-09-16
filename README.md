@@ -2,11 +2,12 @@
 
 ## Team Details
 
+Name: Loss Vegas
+Ranked:  ***__ out of __***
+
 - Arnav Samal (NIT Rourkela)
 - Shaunak Mandal (NIT Rourkela)
 - Anirudh Venkateswaran (NIT Rourkela)
-
-Ranked:  ***__ out of __***
 
 ## Feature Extraction from Images
 
