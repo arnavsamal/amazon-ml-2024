@@ -2,7 +2,7 @@
 
 ## Team Details
 
-Name: Loss Vegas
+Name: Loss Vegas\
 Ranked:  ***__ out of __***
 
 - Arnav Samal (NIT Rourkela)
