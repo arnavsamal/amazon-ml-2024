@@ -3,7 +3,7 @@
 ## Team Details
 
 Name: Loss Vegas\
-Rank:  ***555 out of 3000+***
+Rank:  ***555 out of 75000+ participants***
 
 - Arnav Samal (NIT Rourkela)
 - Shaunak Mandal (NIT Rourkela)
