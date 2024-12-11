@@ -5,7 +5,7 @@
 Name: Loss Vegas\
 Rank:  ***555 out of 75000+ participants***
 
-- [Arnav Samal](https://github.com/arnavs04) (NIT Rourkela)
+- [Arnav Samal](https://github.com/arnavsamal) (NIT Rourkela)
 - [Shaunak Mandal](https://github.com/Shaunak2004) (NIT Rourkela)
 - [Anirudh Venkateswaran](https://github.com/anivenk25) (NIT Rourkela)
 
